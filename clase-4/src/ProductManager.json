@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"title": "papa",
+		"description": "ricas y nutritivas",
+		"price": "100",
+		"thumbnail": "papa.com",
+		"code": "55",
+		"stock": "20"
+	},
+	{
+		"id": 2,
+		"title": "manzana",
+		"description": "fruta deliciosa",
+		"price": "250",
+		"thumbnail": "manzana.com",
+		"code": "88",
+		"stock": "250"
+	},
+	{
+		"id": 3,
+		"title": "zanahoria",
+		"description": "las mejores de la provinca",
+		"price": "150",
+		"thumbnail": "zanahoria.com",
+		"code": "111",
+		"stock": "30"
+	},
+	{
+		"id": 4,
+		"title": "remolacha",
+		"description": "verduras roja",
+		"price": "150",
+		"thumbnail": "sin imagen",
+		"code": "234",
+		"stock": "30"
+	},
+	{
+		"id": 5,
+		"title": "pepino",
+		"description": "verduras verdes",
+		"price": "150",
+		"thumbnail": "sin imagen",
+		"code": "12334",
+		"stock": "30"
+	},
+	{
+		"id": 6,
+		"title": "sandia",
+		"description": "fruta roja por dentro",
+		"price": "150",
+		"thumbnail": "sin imagen",
+		"code": "23234",
+		"stock": "30"
+	},
+	{
+		"id": 7,
+		"title": "repollo",
+		"description": "verduras de hojas verder",
+		"price": "150",
+		"thumbnail": "sin imagen",
+		"code": "54",
+		"stock": "30"
+	},
+	{
+		"id": 8,
+		"title": "rabanito",
+		"description": "verduras roja por fuera y picante",
+		"price": "150",
+		"thumbnail": "sin imagen",
+		"code": "59",
+		"stock": "30"
+	},
+	{
+		"id": 9,
+		"title": "morron",
+		"description": "verduras roja por fuera",
+		"price": "150",
+		"thumbnail": "sin imagen",
+		"code": "23",
+		"stock": "30"
+	},
+	{
+		"id": 10,
+		"title": "cebolla",
+		"description": "verduras blancas y con capas",
+		"price": "150",
+		"thumbnail": "sin imagen",
+		"code": "35",
+		"stock": "30"
+	}
+]
